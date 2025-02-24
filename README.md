@@ -12,43 +12,42 @@ This project aims to support data-driven decision-making by offering valuable in
 - <a href = "https://github.com/Shiva-Krishna-96/PowerBI-Sales-Dashboard/blob/main/Sample%20-%20Superstore.xls"> Dataset </a>
 
 ## Questions (KPIs)
-- What is the total revenue generated over a specific period?
-- How are sales fluctuating over different months or years?
-- Which salespersons generated the highest revenue?
-- What is the percentage increase or decrease in sales over time?
-- Which product categories contribute the most to total sales?
-- Which products have the highest sales volume?
-- Which products are underperforming in sales?
-- How much revenue does each product category contribute?
-- Who are the top-performing sales representatives?
-- How much revenue is each salesperson generating?
-- What is the average revenue per sales transaction?
-- Which locations are generating the highest sales?
-- How does product demand vary by location?
-
-- Dashboard Interaction  <a href= "https://github.com/Shiva-Krishna-96/Data-Analysis-Dashboard/blob/main/Dashboard.PNG"> View Dashboard </a>
+- What is the total revenue, profit, and quantity sold across all years?
+- How has sales revenue and profit grown over the years and quarters?
+- Which states and cities contribute the most to overall sales and profitability?
+- Which customer segment (Consumer, Corporate, Home Office) generates the highest revenue and profit?
+- Which product categories and sub-categories drive the highest sales and profit?
+- What is the profit margin, and how does it vary across different categories and regions?
+- Which quarter consistently performs best in terms of sales and profit growth?
+- What is the average order value (AOV), and how does it impact overall revenue?
+- How do sales and profit trends compare across different regions (East, West, Central, South)?
+- Which states or cities have the lowest sales performance, and what factors contribute to it?
 
 ## Process
-- Verify data for any missing values and anomalies, and sort out the same.
-- Make sure data is consistent and clean with respect to data type, data formant and values used.
-- Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+- Import Data into Power BI and Select superstore.xlsx and click Load.
+Use Power Query Editor for data cleaning (remove duplicates, handle missing values, change data types)
+- Create Key Measures (DAX Calculations)
+- Build the Dashboard (Visualization).
+- Add Filters & Slicers for Interactivity
+-  Formatting & Customization(Use consistent colors & themes.Add titles, labels, and tooltips for clarity. Enable drill-through & interactivity.)
 
 
 ## Dashboard
+![sales_dashboard](https://github.com/user-attachments/assets/9b404621-bbec-4976-849a-84f49f8317e6)
+![sales_dashboard1](https://github.com/user-attachments/assets/30aaa232-5da9-401f-993b-ba2e9dea196c)
+![sales_dashboard2](https://github.com/user-attachments/assets/ff324743-aa18-497b-87fa-8d8b2f92c8e5)
 
-![Dashboard](https://github.com/user-attachments/assets/7e1bb386-8767-4447-ba8e-cf1771671f51)
+
 
 ## Project Insight
-- Furniture, LED TVs, and Mobiles drive the highest revenue.
-- Some products have low sales, requiring better marketing or pricing adjustments.
-- Mahesh, Ramesh, and Kiran generate the highest revenue.
--  Guntur and Vijayawada show strong sales performance, while Tenali and Bapatla need improvement.
--  High-priced products contribute more revenue per unit, while low-priced items rely on volume.
+- The total revenue generated is $2.33M, with a total profit of $292.30K. A total of 39K units were sold across different segments and categories.
+- 2023 recorded the highest sales and profit, indicating business growth
+- California, New York, and Texas are the top-performing states in sales.
+-  Consumer Segment leads with $1.17M (50.32%) of total sales.
+-  Technology Category contributes 50.14% ($146.54K) of total profit, making it the most profitable.
 
 ## Final Conclusion
-The analysis of sales data reveals strong revenue generation with 4K LED TVs and Mobiles as top-selling products. Guntur and Vijayawada are the most profitable regions, while Bapatla and Tenali need focused sales strategies. Mahesh is the top-performing salesperson, contributing over ₹44 lakh in revenue.However, some products have low sales despite high stock availability, indicating a need for better pricing, promotions, and inventory management. Sales performance fluctuates, suggesting seasonal trends that can be leveraged for strategic marketing and stock planning.
-
+The business is experiencing steady growth, with Technology leading in profitability. Strategic efforts in Furniture optimization, regional expansion, and seasonal sales planning will further boost revenue and profitability.
 
 
 
