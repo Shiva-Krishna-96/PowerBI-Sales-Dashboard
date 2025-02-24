@@ -9,7 +9,7 @@ The objective of this project is to develop an interactive Sales Dashboard that 
 This project aims to support data-driven decision-making by offering valuable insights for sales optimization and strategic planning.
 
 ## Dataset used
-- <a href = "[https://github.com/Shiva-Krishna-96/Data-Analysis-Dashboard/blob/main/Sales%20and%20Products%20Dashboard.xlsx](https://github.com/Shiva-Krishna-96/PowerBI-Sales-Dashboard/blob/main/Sample%20-%20Superstore.xls)"> Dataset </a>
+- <a href = "https://github.com/Shiva-Krishna-96/PowerBI-Sales-Dashboard/blob/main/Sample%20-%20Superstore.xls"> Dataset </a>
 
 ## Questions (KPIs)
 - What is the total revenue generated over a specific period?
